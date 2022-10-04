@@ -5,7 +5,7 @@
 Build a web-enabled tool that collects evangelical data such as numbers of people ministered to, number of people saved, number of unsaved, challenges, testimony, groups, as well as sub-groups; which is saved to a database and can be readily retrieved.
 
 # Clients
--Nike’s church 
+-The Effectual Life Church 
 
 # Introduction
 
