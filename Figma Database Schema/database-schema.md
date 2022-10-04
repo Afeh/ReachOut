@@ -2,7 +2,7 @@
 
 ## Source Image
 
-![Database Schema](./images/ReachOut%20Database%20Schema.png)
+![Database Schema](./images/ReachOut%20Database%20Schema-updated.png)
 
 ## How to embed in code
 
